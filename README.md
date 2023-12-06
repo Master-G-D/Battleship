@@ -1,2 +1,2 @@
 # Battleship
-yeh
+Jeu de bataille navale
