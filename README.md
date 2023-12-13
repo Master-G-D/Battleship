@@ -1,2 +1,2 @@
-# Battleship
+# Sploush
 Jeu de bataille navale
